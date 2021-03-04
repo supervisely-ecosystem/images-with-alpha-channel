@@ -1,0 +1,11 @@
+{
+  "name": "Images with alpha channel",
+  "description": "Illustrates alpha support in Supervisely",
+  "type": "project",
+  "categories": [
+    "images",
+    "alpha channel"
+  ],
+  "icon": "https://i.imgur.com/9m00ASc.png",
+  "icon_cover": true
+}
