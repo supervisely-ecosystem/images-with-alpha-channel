@@ -3,7 +3,9 @@
   "description": "Illustrates alpha support in Supervisely",
   "type": "project",
   "categories": [
+    "import",
     "images",
+    "project",
     "alpha channel"
   ],
   "icon": "https://i.imgur.com/9m00ASc.png",
